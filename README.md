@@ -6,19 +6,19 @@
 - Using sklearn, tensorFlow, and keras for modeling and predicting this dataset
 
 ## Logistic Regression with 92.02% accuracy
-![Alt Text](Logit_CM.png)
+![Alt Text](LogitCM.png)
 
 ## Random Forest with 97.22% accuracy
-![Alt Text](RF CM.png)
+![Alt Text](RFCM.png)
 
 ## Support Vector Classifier with 97.87% accuracy
-![Alt Text](SVM CM.png)
+![Alt Text](SVMCM.png)
 
 ## Multi-Layer Perceptron with 98.13% accuracy
-![Alt Text](MLP CM.png)
+![Alt Text](MLPCM.png)
 
 ## TensorFlow Deep Neural Network with 98.34% accuracy
-![Alt Text](DNN CM.png)
+![Alt Text](DNNCM.png)
 
 ## Keras 2D-Convolutional Neural Network with 99.08% accuracy
 ![Alt Text](CNN.png)
