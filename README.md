@@ -2,8 +2,8 @@
 
 ![Alt Text](https://cdn-images-1.medium.com/max/1600/1*yBdJCRwIJGoM7pwU-LNW6Q.png)
 
-Focusing on the famous machine learning dataset MNIST handwritten digits
-Using sklearn, tensorFlow, and keras for modeling and predicting this dataset
+- Focusing on the famous machine learning dataset MNIST handwritten digits
+- Using sklearn, tensorFlow, and keras for modeling and predicting this dataset
 
 ## Logistic Regression with 92.02% accuracy
 
