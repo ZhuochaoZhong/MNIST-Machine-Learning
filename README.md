@@ -6,7 +6,7 @@
 - Using sklearn, tensorFlow, and keras for modeling and predicting this dataset
 
 ## Logistic Regression with 92.02% accuracy
-![Alt Text](Logit CM.png)
+![Alt Text](Logit_CM.png)
 
 ## Random Forest with 97.22% accuracy
 ![Alt Text](RF CM.png)
